@@ -1,5 +1,5 @@
 var brushWidth = 10;
-var color = "#000000";
+var color = "#212529";
 var drawingcanvas;
 
 (function() {
